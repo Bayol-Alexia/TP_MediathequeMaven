@@ -1159,9 +1159,9 @@
 										"$ref": "AAAAAAGLGMlibaQETu0="
 									},
 									"font": "Arial;13;0",
-									"left": 144,
+									"left": 143,
 									"top": 214,
-									"width": 5.05908203125,
+									"width": 6.5,
 									"height": 13,
 									"alpha": 5.538932343349673,
 									"distance": 22.67156809750927,
@@ -1224,9 +1224,9 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 133,
+									"left": 132,
 									"top": 158,
-									"width": 5.05908203125,
+									"width": 6.5,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1753,7 +1753,7 @@
 											"top": 293,
 											"width": 162.18896484375,
 											"height": 13,
-											"text": "ItenVisitor"
+											"text": "ItemVisitor"
 										},
 										{
 											"_type": "LabelView",
@@ -3643,7 +3643,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "ItenVisitor",
+					"name": "ItemVisitor",
 					"operations": [
 						{
 							"_type": "UMLOperation",
